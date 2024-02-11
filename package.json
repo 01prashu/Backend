@@ -11,5 +11,8 @@
     "javascript"
   ],
   "author": "Prashant Netke",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^3.2.5"
+  }
 }
